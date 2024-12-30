@@ -35,3 +35,17 @@ Finish defeat  (**ADD HERE**)
 Finish victory (**ADD HERE**)
 
 Start (**ADD HERE**)
+
+Blitz (**ADD HERE**)
+
+40 Lines (**ADD HERE**)
+
+General (**ADD HERE**)
+
+Themes (**ADD HERE**)
+
+Update Channel (**ADD HERE**)
+
+Debug Mode (**ADD HERE**)
+
+Supporter (**ADD HERE**)
